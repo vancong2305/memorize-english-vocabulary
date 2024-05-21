@@ -17,7 +17,7 @@ To streamline and speed up the coding process, we use batch files to automate th
 To use the `create.bat` file, follow these steps:
 
 1. Open your command prompt and navigate to the directory containing the `create.bat` file.
-2. Use the following command structure:
+2. Use the following command structure: `create.bat <parameter>`
 3. Replace `<parameter>` with the desired name for your Java classes.
 
 #### Example:
