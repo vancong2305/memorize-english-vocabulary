@@ -8,7 +8,7 @@ This application helps you learn English vocabulary easily.
 - Automatically generate Java files for your project using batch files.
 - Structured and efficient workflow for rapid development.
 
-## Why do I put Batch Files in the project?
+## Why do i put Batch Files in the project?
 ### `create.bat`
 #### Reason for use
 
