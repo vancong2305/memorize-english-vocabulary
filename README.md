@@ -9,13 +9,13 @@ This application helps you learn English vocabulary easily.
 - Structured and efficient workflow for rapid development.
 
 ## Why do I put Batch Files in the project?
-### `create.bat` File
+### `create.bat
 #### Reason for use
 
 The `create.bat` file uses the provided parameter to create Java files with the specified name, following a predefined template. This ensures that all necessary files for a new component are created and ready for implementation. To streamline and speed up the coding process, we use batch files to automate the creation of Java files. This helps in maintaining a consistent project structure and saves time by reducing manual effort.
 
 
-#### How to Use the `create.bat` File
+#### How to use?
 
 
 To use the `create.bat` file, follow these steps:
