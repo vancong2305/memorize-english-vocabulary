@@ -12,7 +12,7 @@ This application helps you learn English vocabulary easily.
 ### `create.bat`
 #### Reason for use
 
-The `create.bat` file uses the provided parameter to create Java files with the specified name, following a predefined template. This ensures that all necessary files for a new component are created and ready for implementation. To streamline and speed up the coding process, we use batch files to automate the creation of Java files. This helps in maintaining a consistent project structure and saves time by reducing manual effort.
+The `create.bat` file uses the provided parameter to create Java files with the specified name, following a predefined template. This ensures that all necessary files for a new component are created and ready for implementation. To streamline and speed up the coding process, i use batch files to automate the creation of Java files. This helps in maintaining a consistent project structure and saves time by reducing manual effort.
 
 
 #### How to use?
