@@ -10,9 +10,13 @@ This application helps you learn English vocabulary easily.
 
 ## Why Use the Batch File?
 
-To streamline and speed up the coding process, we use batch files to automate the creation of Java files. This helps in maintaining a consistent project structure and saves time by reducing manual effort.
+#### Reason for use `create.bat` File
 
-### How to Use the `create.bat` File
+The `create.bat` file uses the provided parameter to create Java files with the specified name, following a predefined template. This ensures that all necessary files for a new component are created and ready for implementation. To streamline and speed up the coding process, we use batch files to automate the creation of Java files. This helps in maintaining a consistent project structure and saves time by reducing manual effort.
+
+
+#### How to Use the `create.bat` File
+
 
 To use the `create.bat` file, follow these steps:
 
@@ -35,7 +39,3 @@ This will generate the following files in the appropriate package:
 - `WordService.java`
 
 Each file will be initialized with the basic structure and boilerplate code, saving you time and ensuring consistency across your project.
-
-### Batch File Structure
-
-The `create.bat` file uses the provided parameter to create Java files with the specified name, following a predefined template. This ensures that all necessary files for a new component are created and ready for implementation.
