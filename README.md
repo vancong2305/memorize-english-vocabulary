@@ -27,8 +27,7 @@ To use the `create.bat` file, follow these steps:
 #### Example:
 
 1. Navigate to the directory containing the `create.bat` file.
-2. Run the command: `create.bat Word`
-3. Press Enter.
+2. Press enter to run the command: `create.bat Word`
 
 This will generate the following files in the appropriate package:
 
