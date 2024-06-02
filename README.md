@@ -8,11 +8,15 @@ This application helps you learn English vocabulary easily.
 - Automatically generate Java files for your project using batch files.
 - Structured and efficient workflow for rapid development.
 
-## Why Use the Batch File?
+## Why do i put Batch Files in the project?
+### `create.bat`
+#### Reason for use
 
-To streamline and speed up the coding process, we use batch files to automate the creation of Java files. This helps in maintaining a consistent project structure and saves time by reducing manual effort.
+The `create.bat` file uses the provided parameter to create Java files with the specified name, following a predefined template. This ensures that all necessary files for a new component are created and ready for implementation. To streamline and speed up the coding process, i use batch files to automate the creation of Java files. This helps in maintaining a consistent project structure and saves time by reducing manual effort.
 
-### How to Use the `create.bat` File
+
+#### How to use?
+
 
 To use the `create.bat` file, follow these steps:
 
@@ -22,9 +26,9 @@ To use the `create.bat` file, follow these steps:
 
 #### Example:
 
-1. Navigate to the directory containing the `create.bat` file.
-2. Run the command: `create.bat Word`
-3. Press Enter.
+1. Turn on Command Prompt.
+2. Navigate to the directory containing the `create.bat` file.
+3. Press enter to run the command: `create.bat Word`
 
 This will generate the following files in the appropriate package:
 
@@ -35,7 +39,3 @@ This will generate the following files in the appropriate package:
 - `WordService.java`
 
 Each file will be initialized with the basic structure and boilerplate code, saving you time and ensuring consistency across your project.
-
-### Batch File Structure
-
-The `create.bat` file uses the provided parameter to create Java files with the specified name, following a predefined template. This ensures that all necessary files for a new component are created and ready for implementation.
